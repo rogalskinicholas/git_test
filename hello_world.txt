@@ -1,3 +1,5 @@
 hello nick
 this is your first time using git and github
 i am integrating the version control systems with this hello_world file
+
+this is a test for commiting without the flag "-m"
